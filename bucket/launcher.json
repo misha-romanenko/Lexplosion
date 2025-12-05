@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "description": "Launcher — ez",
+    "homepage": "https://example.com",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/user-attachments/files/23969019/Lexplosion-main.zip",
+            "hash": "sha256:9FD53F096C9EC31450B7921DED8CEF56A6AA1798C9E5A5C20D59D1447B834D6C"
+        }
+    },
+    "bin": "Lexplosion.exe"
+}
